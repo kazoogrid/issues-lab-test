@@ -1,0 +1,6 @@
+# The owners: the people CODEOWNERS names for .order/ and for itself, two of
+# them. Owners merge rule changes and open and close reds. The onboarding PR
+# puts the installer first; the second is yours to name: a person who can
+# write here, since GitHub drops a name that cannot, and so does the gate.
+/.order/            @alexkazoodev @second-owner
+/.github/CODEOWNERS @alexkazoodev @second-owner
